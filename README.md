@@ -1,16 +1,17 @@
-# claycraft_google_gen_ai
+# ClayCraft – AI-Powered Pottery Marketplace & Creative Hub
 
-A new Flutter project.
+PotteryConnect is a **digital marketplace + creative playground + community hub** that brings pottery artisans and buyers together.  
+It empowers local artisans with AI tools to market their craft, while giving consumers an **interactive way to design, customize, and order pottery** directly from the makers.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features
+- **Dual Sign-Up** – Artisans create profiles & upload products; buyers browse, order, and commission work directly (no middlemen).
+- **Marketplace** – Browse authentic pottery with prices, artisan stories, and real-time availability.
+- **Community Hub** – Share designs, trends, and pottery knowledge in a social discussion space.
+- **AI Chatbot** – Get instant guidance on pottery types, materials, maintenance, and product suggestions.
+- **Customization Studio** – Sculpt, shape, and paint virtual pottery (touch/AR/VR) and send designs to artisans.
+- **Smart Artisan Matching** – AI recommends artisans who specialize in the buyer’s custom style.
+- **User Dashboard** – Track orders, drafts, wishlist, and past purchases.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
